@@ -1,0 +1,204 @@
+LANCAST PRIVACY POLICY
+
+Effective date: 24 November 2026
+Last updated: 26 November 2026
+
+This Privacy Policy explains what information LanCast handles, why, where it goes, how long it stays, and what rights you have. It applies to:
+- the LanCast app for Android (phones, tablets, Android TV, Google TV and Chromebooks), available on Google Play;
+- LanCast for Windows (the desktop program and the Microsoft Store package);
+- the web page on which this Policy is published.
+
+Please read it together with the Terms of Use, which are linked from the app's Settings screen and from the same web address.
+
+1. WHO IS RESPONSIBLE FOR YOUR INFORMATION
+
+LanCast is developed and published by Vibe Coded, an individual developer based in India ("we", "us", "our").
+
+Contact for privacy matters: kabileshwaran47@gmail.com (email only; we do not publish a postal address)
+Grievance officer (Information Technology Act 2000 and Digital Personal Data Protection Act 2023, India): Vibe Coded, at the email address above. We will acknowledge a complaint within 48 hours and resolve it within 30 days.
+
+2. THE SHORT VERSION
+
+- LanCast has no accounts, no sign-in, no advertising, no analytics and no crash reporting.
+- LanCast does not send your files, your viewing history, your playlists or your device details to us or to anyone else.
+- The only personal information we hold is what you choose to send us by email, and what is stored on your own device.
+- Purchases of LanCast Pro are processed by Google Play. We receive only a yes or no answer on whether Pro is unlocked for your Google account.
+- Video and audio move between your own devices over your local network. They are not uploaded to the internet.
+- When you share a web page or web video link with LanCast, the phone downloads that video from the website and passes it to your screen. The website sees an ordinary visit from your phone. LanCast does not send us the link.
+- Screen mirroring sends what is on your screen, and the sound your apps play, only to the screen you chose on your local network.
+- LanCast's web browser works like any browser: the websites you visit receive your visits and can set cookies, which stay on your phone. LanCast does not see or keep your browsing.
+- When a Windows PC is mirrored to a phone or tablet and you allow control, the touches and typing on that phone or tablet are sent to the PC over your local network. They are not recorded.
+
+3. INFORMATION WE DO NOT COLLECT
+
+We do not collect, and have no means to collect, the following:
+- your name, phone number or postal address, unless you write them to us in an email;
+- your location (LanCast does not request location permission);
+- your contacts, calendar, messages, call logs, or photos other than the video and music files you choose to play;
+- advertising identifiers, device identifiers or fingerprints;
+- your browsing history or internet activity;
+- the content of your video or audio files, the titles or folder names of your files, or your playback history;
+- biometric information.
+
+4. INFORMATION STORED ON YOUR DEVICE
+
+LanCast stores the following only on the device where you installed it. It never leaves that device except as described in section 5.
+
+(a) Library and playlists. The titles, folder names, durations, sizes and dates of the video and music files that LanCast lists, and the playlists you create. Playlists are stored in the app's private storage.
+
+(b) Screens you have used. The name and network address of each screen you chose, so that you do not have to choose it again. You can remove them at any time from Settings, then "Forget saved screens".
+
+(c) PIN lock settings. Whether the PIN lock is on, and the PIN itself, for each screen where you turned it on. On Android the PIN is stored in the app's private storage. On Windows it is stored in a file named settings.json in your Windows user profile (AppData\Roaming\LanCast). Anyone with access to an unlocked device can read it; see section 9.
+
+(d) Pro status. A record that LanCast Pro is unlocked on this device, so that the app can work offline after a purchase.
+
+(e) Information held only in memory. While mirroring, the picture and sound are encoded and sent straight to your screen and are not stored. While the app is running, LanCast keeps the most recent file-server events and playback statistics, to show them on your screen. They are discarded when the app closes. Thumbnails of your files are also kept in memory only.
+
+(f) Windows only. The PIN lock settings in (c), and a firewall rule added by the Microsoft Store package. The rule allows incoming LanCast connections on private networks only. It does not allow connections on public networks.
+
+(g) Web browser data. Cookies, site storage and the cache of the pages you open in LanCast's browser, kept by Android System WebView in the app's private storage. LanCast keeps no list of the pages you visit.
+
+You can delete all of this at any time by uninstalling LanCast (Android and Windows), or by clearing the app's data in your device settings. Uninstalling also removes the playlists, saved screens and PIN settings.
+
+5. INFORMATION THAT TRAVELS OVER YOUR NETWORK
+
+When you cast a file, LanCast sends the file, and short control messages such as play, pause and seek, between the phone or PC that holds the file and the screen you chose. Messages and files are sent only to devices on the same local network: private addresses such as 192.168.x.x, 10.x.x.x and 172.16.x.x to 172.31.x.x, and IPv6 local addresses. The app refuses to connect to any address outside your local network, with one exception: when you share a web video with LanCast, your phone (never the screen) downloads it from the website and passes it on.
+
+This traffic has these properties, which you should know:
+- It travels between your devices. It is not sent to us or to any other company. We operate no servers that receive it.
+- LanCast does not encrypt it. Other devices on the same network, and anyone able to monitor that network, could in principle see the file or the control messages. Use LanCast on networks you trust, such as your home network, and turn on the PIN lock on shared or public networks.
+- With the PIN lock on, the PIN itself is never sent over the network. Phones send a proof that expires within about two minutes, and after five wrong guesses further attempts are blocked for 30 seconds. This protects the controls, but not the video itself.
+- To find televisions and speakers that accept "Play To", your phone sends a standard discovery message (SSDP, on UDP port 1900) to your local network, and reads the name and controls each device describes. It then sends that device the play, pause, seek and volume commands you choose, and the address of the file on your phone.
+- Screens announce their name on your local network (using mDNS on UDP port 5353) so that phones can find them. Anyone on the same network can see that a LanCast screen exists and what it is called.
+
+On Windows, LanCast reads your PC's Wi-Fi signal strength by running the built-in Windows command "netsh wlan show interfaces". It uses only the signal percentage. It does not read or record the network name or other network details. The percentage is shown in the live stats on the phone that is controlling the screen, on your local network only. It is never sent to LanCast or anyone else.
+
+6. PURCHASES AND PAYMENTS
+
+LanCast Pro is sold through Google Play using Google Play Billing. Google, as the seller of record, processes your payment, taxes and receipt, and handles refunds under Google Play's own policies. Google's Privacy Policy (policies.google.com/privacy) and the Google Play Terms of Service govern that processing.
+
+We receive from Google only what is needed to unlock Pro: whether LanCast Pro has been purchased on your Google account, and whether the purchase is valid. We do not receive your name, card or UPI details, billing address or email address from Google.
+
+On Android, LanCast asks Google Play whether you own Pro when the app starts and when you choose Restore. Once unlocked, Pro stays available offline on that device.
+
+LanCast for Windows does not sell anything directly. If Pro purchases are offered on Windows in future, the payment would be processed by Microsoft under the Microsoft privacy statement, and this section would be updated.
+
+7. PERMISSIONS AND WHY LANCAST USES THEM
+
+Android:
+- Photos and videos, music and audio (READ_MEDIA_VIDEO, READ_MEDIA_AUDIO): to list and play your files.
+- Selected photos and videos (READ_MEDIA_VISUAL_USER_SELECTED, Android 14 and later): if you allow access only to some files, LanCast uses only those.
+- Storage (READ_EXTERNAL_STORAGE, Android 12 and earlier): the same purpose, on older devices.
+- Internet and Wi-Fi state (INTERNET, ACCESS_WIFI_STATE): to connect to other devices on your network and read your Wi-Fi signal strength. LanCast does not use location permission for this.
+- Keep the device awake and media-playback foreground service (WAKE_LOCK, FOREGROUND_SERVICE, FOREGROUND_SERVICE_MEDIA_PLAYBACK): so playback continues when the screen is off. A notification appears while a file is being sent.
+- Notifications (POST_NOTIFICATIONS): to show that a file is being sent.
+- Screen capture and media-projection foreground service (FOREGROUND_SERVICE_MEDIA_PROJECTION): only while you mirror your screen. Android asks you each time and shows that sharing is on.
+- Record audio (RECORD_AUDIO): only while mirroring, to capture the sound other apps play so it can play on your screen. LanCast never records the microphone. Apps that block capture are not heard.
+
+Windows: a firewall rule for private networks (TCP port 8765 for control messages, TCP port 8767 for a mirrored phone screen, UDP port 5353 for discovery), and the privateNetworkClientServer capability. When you show the PC on another screen, LanCast captures that display and the sound the PC plays (never the microphone) only until you stop; if you allow control, it moves the mouse and types on the PC for the phone or tablet showing it. No other system access is requested.
+
+You can withdraw any permission at any time in your device or Windows settings. LanCast will still open, but the related feature will stop working.
+
+8. THIRD-PARTY SOFTWARE AND SERVICES
+
+- libVLC (VideoLAN) is the video and audio playback engine. It runs on your device. As LanCast configures it, it does not send usage statistics or crash reports to its authors or anyone else.
+- NanoHTTPD is a small web-server library used to send files between devices on your network. It runs on your device.
+- Google Play Billing Library handles Pro purchases (section 6).
+- Google Play In-App Review Library shows Google Play's review card after you use the feedback form. Anything you write there goes to Google under its own policies.
+- Android System WebView, part of Android, displays web pages in LanCast's browser. The websites you visit there process your visit under their own policies.
+- FFmpeg runs on your PC in LanCast for Windows to capture and encode the screen when you show it on another screen. It sends nothing anywhere else.
+- Windows runtime and packaging components run on your PC.
+- Google Sites hosts this web page. As the host, Google may process visitor information such as IP addresses and cookies under its own policies. LanCast adds no analytics or tracking to this page.
+
+Open-source licences and the source-code offer are shown in the app (Settings, then Licences and credits) and in the Windows program folder as THIRD-PARTY-NOTICES.txt.
+
+9. SECURITY
+
+LanCast has no server, so your files and playback messages do not sit in a database that could be breached. The main risks are on the network and on the devices themselves:
+- Traffic between devices is not encrypted (section 5). Use trusted networks.
+- Anyone who can open your phone or PC can read the saved PIN and the names of your screens. Protect your devices with a screen lock.
+- With the PIN lock off, any device on the same network can play, pause or stop what a screen shows. Turn the PIN lock on whenever the network is not fully trusted.
+
+We take reasonable steps to keep LanCast's code secure, including checks that refuse non-local connections and the PIN-proof system. No system is perfectly secure. If we learn of a security problem that affects you, we will tell you and fix it as soon as reasonably possible.
+
+10. CHILDREN
+
+LanCast is not intended for children. We do not knowingly collect personal information from anyone, including children, and because LanCast collects no personal information, we do not run any children's data collection.
+
+If you are under 18, use LanCast only with a parent or guardian's permission, and ask them to make any purchase. In India, the Digital Personal Data Protection Act 2023 requires verifiable parental consent before personal data of anyone under 18 is processed. LanCast does not process such data. If you believe we hold a child's data, contact us and we will delete it.
+
+11. INFORMATION YOU SEND US
+
+The "Send feedback" form in the Android app only prepares a message in your own email app, with the title, description and screenshots you chose, plus your app version, device model and Android version, which you can delete before sending. Nothing is sent unless you press send there. If you email us, we receive your email address, the content of your message and any attachments. We use them only to reply, to resolve your issue or complaint, and to improve LanCast. We keep emails for up to three years, unless you ask us to delete them sooner or the law requires us to keep them longer (for example, a tax or consumer-law record).
+
+Reviews and feedback you post on Google Play or the Microsoft Store are published by those stores under their own terms.
+
+12. HOW LONG WE KEEP INFORMATION
+
+- On your device: until you delete it or uninstall LanCast.
+- Emails: up to three years, as described in section 11.
+- Purchase records: kept by Google and Microsoft under their own policies.
+- We keep no backups of your device data, because we do not receive it.
+
+13. WHO WE SHARE INFORMATION WITH
+
+We do not sell your personal information. We do not share it for advertising, and we do not use it for cross-context behavioural advertising. We share information only in these cases:
+- with Google for purchases and Pro checks (section 6), and with Microsoft for any future Windows purchase;
+- with service providers who help us run our email and website, under contracts that restrict their use of the information;
+- when required by law, a court order, or a lawful request from a public authority;
+- to protect the rights, property or safety of users or others, where the law allows it;
+- in connection with a sale, merger or transfer of the LanCast business. We would tell you, and the new owner must respect this Policy or a stronger one.
+
+14. INTERNATIONAL TRANSFERS
+
+We do not transfer your personal information across borders, because we do not receive it. Google and Microsoft may process purchase information in other countries under the safeguards described in their privacy policies.
+
+15. COOKIES AND SIMILAR TECHNOLOGIES
+
+The LanCast app does not use cookies or similar tracking technologies. This web page is hosted by Google Sites, which may set cookies needed to operate the site. We add no other tracking.
+
+16. YOUR RIGHTS
+
+Depending on where you live, you may have some or all of these rights: to know what personal information we hold about you; to access it; to have it corrected; to have it deleted; to restrict or object to its use; to receive it in a portable form; to withdraw consent; and not to be treated worse for exercising these rights. Residents of California and other US states also have a right to opt out of the sale or sharing of personal information. This does not apply to LanCast, because we do not sell or share personal information.
+
+India (Digital Personal Data Protection Act 2023): you have the right to access information, to correction and erasure, to grievance redressal, and to nominate another person to exercise your rights if you die or become incapable of doing so. You may complain to the Data Protection Board of India once it is operational.
+
+European Economic Area and United Kingdom (GDPR and UK GDPR): you have the rights listed above, and may complain to your national data protection authority or, in the UK, to the Information Commissioner's Office. Where we rely on your consent, you may withdraw it at any time. Our lawful basis for handling emails is our legitimate interest in answering you. For purchase records it is the contract between you and Google.
+
+California and other US states: you may ask what personal information we have collected about you in the past 12 months, ask us to delete it and ask us to correct it. We do not sell or share personal information. We will not discriminate against you for exercising these rights.
+
+Brazil (LGPD), Singapore (PDPA), Canada (PIPEDA), Australia (Privacy Act), South Africa (POPIA), the UAE and other countries: you have comparable rights, and we will respond to requests from residents of those countries in the same way.
+
+How to exercise your rights: email kabileshwaran47@gmail.com with the subject "Privacy request". We may need to confirm that the request comes from you. We will reply within 30 days, or sooner where the law requires, and free of charge unless a request is manifestly unfounded or excessive. Where we hold no information about you, we will say so. For information held by Google or Microsoft, contact them directly.
+
+17. DATA PROTECTION OFFICER AND REPRESENTATIVES
+
+LanCast does not meet the thresholds that require a data protection officer under the GDPR or other laws. Where a law requires a local representative in another country, we will appoint one and publish its details in this section.
+
+18. AUTOMATED DECISIONS
+
+LanCast does not make decisions about you using automated processing that has legal or similarly significant effects. The Pro check and the PIN lock are simple yes or no checks on your own device.
+
+19. DATA BREACHES
+
+We do not hold your personal information, so a breach affecting it is unlikely. If one happened, we would notify affected people and the relevant authorities as the law requires.
+
+20. "DO NOT TRACK" SIGNALS
+
+LanCast does not track you across apps or websites, so it does not respond to "Do Not Track" browser signals.
+
+21. CHANGES TO THIS POLICY
+
+We may update this Policy to reflect changes in LanCast or in the law. We will show the new date at the top and publish the new version at the same web address. For significant changes, we will tell you in the app or on the store listing before they take effect. Where the law requires your consent to a change, we will ask for it. Continuing to use LanCast after a change means you accept it, to the extent the law allows.
+
+22. COMPLAINTS
+
+If you are not satisfied with how we handled a request, please contact us first so that we can try to resolve it. You also have the right to complain to the data protection authority where you live.
+
+23. GOVERNING LAW
+
+This Policy is governed by the laws of India. It does not reduce any privacy rights you have under the laws of the country where you live.
+
+24. THIS IS NOT LEGAL ADVICE
+
+This Policy was written to describe LanCast accurately and to cover the main privacy laws that apply to apps sold worldwide. It should be reviewed by a qualified lawyer in each market where LanCast is sold before it is relied on in a dispute.

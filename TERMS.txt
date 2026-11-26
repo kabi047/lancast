@@ -1,0 +1,181 @@
+LANCAST TERMS OF USE
+
+Effective date: 24 November 2026
+Last updated: 26 November 2026
+
+These Terms of Use ("Terms") are a contract between you and Vibe Coded ("we", "us", "our"), the developer of LanCast. LanCast means the LanCast app for Android (available on Google Play) and LanCast for Windows (available as a desktop program and on the Microsoft Store), together with any updates. The Privacy Policy describes how LanCast handles information and is part of these Terms.
+
+Please read these Terms carefully. By installing, accessing or using LanCast, you agree to them. If you do not agree, do not install or use LanCast, and uninstall it if you have already installed it.
+
+1. WHO MAY USE LANCAST
+
+1.1 You must be at least 18 years old, or be using LanCast with the permission of a parent or legal guardian who accepts these Terms on your behalf. A purchase must be made by an adult with authority to make it, or with that adult's approval, because a contract with a person under 18 may not be enforceable under the law of India or of other countries.
+
+1.2 You may use LanCast only where its use is lawful in your country.
+
+1.3 Store rules. Your use of LanCast through Google Play is also subject to the Google Play Terms of Service and the Google Play policies. Your use through the Microsoft Store is also subject to the Microsoft Store terms and policies. If a store's rules conflict with these Terms, the store's rules apply to the store's own matters, such as payments and refunds.
+
+2. WHAT LANCAST DOES
+
+2.1 LanCast lets you play video and audio files that are stored on your own device, on another device on your own local network, such as a television, a tablet or a computer. Video and audio are sent directly between your devices over your local network. LanCast does not supply any content.
+
+2.3 Web videos. LanCast includes a web browser, and accepts web links shared from other apps. When you choose to play a web video on a screen, your phone downloads it from the website and passes it to the screen. LanCast does not bypass, remove or weaken digital rights management or other technical protection, and it cannot send videos protected in that way. You are responsible for complying with the terms of the websites you visit.
+
+2.4 Screen mirroring and remote control. LanCast can show one device's screen, and the sound it plays, on another device on your local network. When you mirror a Windows PC to a phone or tablet, you can choose to let that phone or tablet control the PC by touch and typing. Anyone holding that phone or tablet can then use the PC as you could. Turn this option on only for devices you trust, and stop mirroring when you have finished.
+
+2.5 Other screens. LanCast can also play on televisions and speakers that accept "Play To" (UPnP or DLNA) on your local network. Those devices play the original file, and LanCast's own playback features are not available on them.
+
+2.6 Second display on Windows. Using a phone, tablet or television as an extra display for a Windows PC needs a virtual display driver, which is third-party software that LanCast does not supply. Its own licence and terms apply.
+
+2.2 LanCast has no accounts and no servers that store your files. We do not monitor what you play.
+
+3. LICENCE TO YOU
+
+3.1 Subject to these Terms, we grant you a personal, non-exclusive, non-transferable, revocable licence to install and use LanCast on devices that you own or control, for your own personal, non-commercial use.
+
+3.2 You may not:
+(a) copy, modify, adapt, translate or create derivative works of LanCast, except as the law permits;
+(b) sell, rent, lease, lend, sublicence, distribute or host LanCast for others, or offer it as a service to others;
+(c) remove, alter or obscure any copyright, trademark, licence or other proprietary notice;
+(d) disable, bypass, circumvent or interfere with any limit, licence check or purchase check in LanCast, including the free-version limits and the Pro checks, or assist anyone else to do so;
+(e) reverse engineer, decompile or disassemble LanCast, except to the extent that applicable law expressly allows it despite this restriction (for example, for interoperability under EU law), and then only to the extent allowed;
+(f) use LanCast to break any law or to infringe anyone's rights;
+(g) use LanCast to attack, probe, overload or interfere with any device, network or service, including by sending control messages to devices that you are not authorised to control.
+
+3.3 Ownership. LanCast, including its software, design, name and logo, is owned by us or our licensors. These Terms do not transfer any ownership to you.
+
+4. OPEN-SOURCE SOFTWARE
+
+LanCast includes open-source software, including libVLC (licensed under the GNU Lesser General Public License, and some plugins under the GNU General Public License), NanoHTTPD (BSD 3-Clause), FFmpeg in LanCast for Windows (GNU General Public License version 3, run as a separate program), and other components listed in the app under Settings, then Licences and credits, and in the Windows program folder as THIRD-PARTY-NOTICES.txt. Those components are licensed to you under their own licences, and nothing in these Terms limits your rights under those licences. Where a licence requires us to offer the source code, the offer is in the licence notices.
+
+5. YOUR CONTENT AND YOUR RESPONSIBILITY
+
+5.1 LanCast only plays files you already have. You are solely responsible for the files you play and send, and for making sure that you have the right to view, play, copy or share them.
+
+5.2 You must not use LanCast to play, copy or share content in breach of copyright, licensing or access-control rules. This includes content protected by digital rights management (DRM) that you do not have the right to play, and content from streaming services where their terms prohibit this.
+
+5.3 We do not store, host, review or distribute your content, and we do not have access to it. We therefore cannot remove it or stop it being shared. If a rights holder believes that LanCast is being used to infringe their rights, they may contact us at the address in section 15, and we will consider and respond in accordance with applicable law.
+
+5.4 You are responsible for any recording, sharing or public showing of content that you carry out with LanCast, and for complying with the laws in your country on those matters.
+
+6. YOUR NETWORK AND DEVICES
+
+6.1 You are responsible for your own network, devices, screen locks and any other security measures you choose to use. You are responsible for the people who use your devices and networks.
+
+6.2 LanCast does not encrypt the traffic between your devices. You acknowledge that other devices on the same network, and people able to monitor that network, could see what is being played or sent. The PIN lock is designed to prevent other devices from controlling a screen, but it is not a substitute for a secure network. You should use LanCast only on networks you trust and turn on the PIN lock on any network that is shared or public.
+
+6.3 Your use of LanCast on a public, shared or work network may breach the rules of that network. You are responsible for checking those rules.
+
+6.4 Devices connected to LanCast may be controlled by any device that knows the PIN, or, if the PIN lock is off, by any device that can reach the screen on the local network. You accept that risk when you choose those settings.
+
+7. FREE VERSION AND LANCAST PRO
+
+7.1 The free version. LanCast is free to download and use with the following limits, which may change in future updates:
+- video output up to 1080p resolution and 30 frames per second, even where the source file is higher;
+- sessions of up to 90 minutes, after which playback stops and can be resumed;
+- equalizer presets only;
+- playback speed between 0.75 times and 1.25 times normal;
+- no subtitle display, subtitle styling or subtitle timing controls; and
+- no live statistics display;
+- screen mirroring and web videos shown at up to 1080p and 30 frames per second, and mirroring sessions of up to 90 minutes; and
+- on televisions and speakers that accept "Play To" (section 2.5), only videos of up to 1080p, because those devices play the original file.
+
+7.2 LanCast Pro. LanCast Pro is a one-time, in-app purchase, sold through Google Play, that removes the limits in section 7.1 for the account that buys it. Pro includes:
+- full-resolution output, up to the resolution, frame rate and high dynamic range (HDR) formats that your screen and its hardware support;
+- no session time limit;
+- subtitle selection, styling and timing controls;
+- playback speeds from 0.5 times to 2 times normal;
+- a custom 10-band equalizer; and
+- live statistics, including bitrate, frame rate, resolution, codecs and Wi-Fi signal strength;
+- screen mirroring and web videos at up to 4K and 60 frames per second, with no time limit; and
+- any video on televisions and speakers that accept "Play To".
+
+7.3 Dolby Vision is not supported and plays as HDR10 or as standard video. The actual picture quality depends on your screen, your network, the file and the hardware, and no level of quality is guaranteed.
+
+7.4 How Pro works across devices. Pro is unlocked for the Google account that bought it, on each Android device signed in to that account. An unlocked Android device that casts to another screen tells that screen to use Pro features. The screen does not need to buy Pro separately. Because LanCast has no server to check purchases, a screen relies on the paired device's report, and a determined person could misrepresent it. We accept this limitation. It does not change what you have bought.
+
+7.5 Price and taxes. The price of LanCast Pro is shown in Google Play before you buy and may differ by country. Taxes, including any goods and services tax, are shown in Google Play at checkout and are collected by Google Play as the seller. The price shown in Google Play at the time of purchase is the price you pay.
+
+7.6 Refunds. Refunds for LanCast Pro are handled by Google Play under the Google Play refund policy, which may allow a refund within a set period after purchase. Please request refunds through Google Play. Where a refund is granted, Pro is removed from your account. Nothing in this section limits any right you have under consumer law where you live.
+
+7.7 Restoring a purchase. If you buy Pro and later reinstall LanCast or change devices, choose Restore in Settings. LanCast will check with Google Play whether your purchase is still valid.
+
+7.8 Changes to Pro. We may change the features included in Pro, and the free-version limits, from time to time. We will not remove the features of Pro that you have bought, in a way that materially reduces what you paid for, without a reasonable replacement or a refund under section 7.6.
+
+7.9 No purchase of Pro through LanCast for Windows. LanCast for Windows is free. Pro is purchased only on Android through Google Play.
+
+8. TRIALS, TESTING AND PRE-RELEASE VERSIONS
+
+Some versions of LanCast may be provided for testing. Test versions may include features that are unfinished, may be less reliable, and may be withdrawn at any time. Features described as "test" in the app are available only to developers and testers, and may not work the same way in the store versions.
+
+9. AVAILABILITY AND CHANGES
+
+9.1 LanCast depends on your network, your devices, the formats of your files, and on third-party software such as Google Play and the Microsoft Store. We do not guarantee that every file, device, network or format will work with LanCast, or that it will always be available or error-free.
+
+9.2 We may update LanCast, add or remove features, and change these Terms. Updates may be installed through the store you used. Some updates may be required to keep LanCast working or secure; you must install them to keep using LanCast after they are released. We will tell you about material changes in the app or on the store listing before they take effect.
+
+9.3 We may stop offering LanCast, or any feature of it, at any time. If we stop offering LanCast entirely, we will give notice in the store listing and on the web page at the top of these Terms. Pro features you have bought will continue to work on the version you already have installed, so long as the store still provides the check, and we will not require any further payment for them.
+
+10. THIRD-PARTY SERVICES
+
+LanCast relies on services provided by others, including Google Play for purchases, the Google Sites web page that hosts these Terms and the Privacy Policy, the Microsoft Store, the websites you visit in LanCast's browser, and the Android System WebView that displays them. We are not responsible for those services. Their own terms and policies apply to your use of them.
+
+11. DISCLAIMERS
+
+11.1 To the extent permitted by law, LanCast is provided "as is" and "as available", without warranties of any kind, express or implied, including warranties of merchantability, fitness for a particular purpose and non-infringement.
+
+11.2 Nothing in these Terms excludes or limits any warranty, condition, right or remedy that cannot lawfully be excluded or limited, including the rights you have under the Consumer Protection Act, 2019 and the Consumer Protection (E-Commerce) Rules, 2020 of India, the consumer laws of the European Union and the United Kingdom (including the Consumer Rights Act 2015 in the UK and the Unfair Contract Terms Directive in the EU), the consumer laws of Australia and New Zealand, and the consumer protection laws of any other country where you live. Where these laws apply, they prevail over any term of these Terms that conflicts with them.
+
+12. LIMITATION OF LIABILITY
+
+12.1 To the extent permitted by law, we are not liable for any indirect, incidental, special, consequential or punitive damages, or for any loss of data, profits, goodwill or business, arising out of or related to your use of LanCast, even if we have been advised of the possibility of such damages.
+
+12.2 To the extent permitted by law, our total liability for all claims relating to LanCast is limited to the amount you actually paid us for LanCast Pro in the twelve months before the claim, or to ₹500, whichever is greater.
+
+12.3 Nothing in these Terms limits or excludes our liability for death or personal injury caused by negligence, for fraud or fraudulent misrepresentation, for any matter that cannot be limited under applicable law, or for any liability that cannot be excluded under the consumer laws described in section 11.2.
+
+13. INDEMNITY
+
+To the extent permitted by law, you agree to defend and indemnify us against claims brought by third parties that arise from your unlawful use of LanCast or your breach of these Terms, including claims arising from content you play, copy or share. This section does not apply where the law of your country prohibits it, including where you are a consumer under the laws described in section 11.2.
+
+14. TERMINATION
+
+14.1 You may stop using LanCast at any time by uninstalling it.
+
+14.2 We may suspend or end your right to use LanCast if you materially breach these Terms, and where the law permits, we may do so with notice. Ending your right to use LanCast does not affect any refund you are entitled to under section 7.6.
+
+14.3 Sections 3.3, 4, 5, 7.6, 11, 12, 13, 15, 16 and 17 survive the end of these Terms.
+
+15. CONTACT AND NOTICES
+
+Questions, complaints, legal notices and rights-holder notices should be sent to kabileshwaran47@gmail.com. Contact us by email only; we do not publish a postal address. We may send notices to you by email or by publishing them in the app or on the store listing.
+
+16. GOVERNING LAW AND DISPUTES
+
+16.1 These Terms are governed by the laws of India, without regard to conflict-of-laws rules.
+
+16.2 Before starting legal proceedings, please contact us so that we can try to resolve the dispute informally. We will try to respond within 30 days.
+
+16.3 Subject to section 16.4, the courts at Coimbatore, Tamil Nadu, India, have exclusive jurisdiction over disputes arising from these Terms.
+
+16.4 If you are a consumer in another country, you may bring a claim in the courts of your own country where the law of that country gives you that right, and the law of your country may apply to the extent it cannot be displaced by agreement. Nothing in these Terms takes away that right.
+
+17. GENERAL
+
+17.1 Entire agreement. These Terms, together with the Privacy Policy and the store terms described in section 1.3, are the whole agreement between you and us about LanCast, and replace any earlier understanding about it.
+
+17.2 Severability. If any part of these Terms is found to be invalid or unenforceable, the rest remains in effect, and the invalid part will be read down to the minimum extent needed to make it enforceable.
+
+17.3 No waiver. A delay or failure by us to enforce any right is not a waiver of that right.
+
+17.4 Assignment. We may transfer these Terms to a successor to the LanCast business. You may not transfer them without our written consent.
+
+17.5 Force majeure. We are not responsible for delay or failure caused by events beyond our reasonable control, including failures of internet, network, store or device services.
+
+17.6 Language. These Terms are written in English. If they are translated, the English version prevails, except where the law of your country requires otherwise.
+
+17.7 Electronic acceptance. You accept these Terms by installing LanCast or by using it. Where a store requires you to accept them when you download or purchase LanCast, that acceptance also counts.
+
+18. THIS IS NOT LEGAL ADVICE
+
+These Terms were written to describe LanCast accurately and to address the consumer and legal rules that commonly apply to apps sold worldwide. They should be reviewed by a qualified lawyer in each market where LanCast is sold before they are relied on in a dispute.
