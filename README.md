@@ -4,17 +4,8 @@ Play videos and music, web videos and whole screens on any screen in your home, 
 
 ## Downloads
 
-Get the files from the **[latest release](https://github.com/kabi047/lancast/releases/latest)**.
-
-| File | For |
-|---|---|
-| `LanCast-Windows-2.0.0.zip` (contains `LanCast.exe`) | Windows 10 (1903+) and 11, 64-bit. One file; no installer. |
-| `LanCast-2.0.0-arm64-v8a.apk` | Most phones and tablets |
-| `LanCast-2.0.0-armeabi-v7a.apk` | Most TVs (Sony Bravia, other Android/Google TVs) |
-| `LanCast-2.0.0-x86_64.apk` | Chromebooks and PCs running Android |
-| `LanCast-2.0.0-universal.apk` | Any Android device (larger) |
-
-On Android, LanCast is also on Google Play. Installing an APK from here over a copy from Google Play isn't possible (different signatures); uninstall that copy first.
+- **Windows 10 (1903+) and 11, 64-bit:** `LanCast-Windows-2.0.0.zip` from the **[latest release](https://github.com/kabi047/lancast/releases/latest)**. Unzip and run `LanCast.exe`; no installer.
+- **Android phones, tablets and TVs:** **[LanCast on Google Play](https://play.google.com/store/apps/details?id=app.lancast)** (open to testers now, everyone after launch). Buying Pro and updates work through Google Play.
 
 ## Windows
 
